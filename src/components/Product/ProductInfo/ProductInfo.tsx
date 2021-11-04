@@ -12,7 +12,7 @@ import {
   ProductPromotion,
 } from './style';
 
-export const ProductDataUI: React.FC = () => {
+export const ProductInfoUI: React.FC = () => {
   return (
     <>
       <BrandText>Sneaker Company</BrandText>

@@ -1,14 +1,14 @@
 import React from 'react';
 import CartButtons from './CartButtons';
 
-import { ProductDataUI } from './ProductInfo';
+import { ProductInfoUI } from './ProductInfo';
 import { Product, Container } from './style';
 
 const ProductData: React.FC = () => {
   return (
     <Product>
       <Container>
-        <ProductDataUI/>
+        <ProductInfoUI/>
         <CartButtons/>
       </Container>
     </Product>
