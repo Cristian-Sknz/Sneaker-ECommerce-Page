@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.660aa71a.chunk.css",
+    "main.js": "./static/js/main.cb4ad1e1.chunk.js",
+    "main.js.map": "./static/js/main.cb4ad1e1.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.bc05cd4f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.bc05cd4f.js.map",
+    "static/js/2.0d43d941.chunk.js": "./static/js/2.0d43d941.chunk.js",
+    "static/js/2.0d43d941.chunk.js.map": "./static/js/2.0d43d941.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.660aa71a.chunk.css.map": "./static/css/main.660aa71a.chunk.css.map",
+    "static/js/2.0d43d941.chunk.js.LICENSE.txt": "./static/js/2.0d43d941.chunk.js.LICENSE.txt",
+    "static/media/icon-cart-white.2fe18f06.svg": "./static/media/icon-cart-white.2fe18f06.svg",
+    "static/media/icon-cart.70cf510f.svg": "./static/media/icon-cart.70cf510f.svg",
+    "static/media/icon-menu.c6107d03.svg": "./static/media/icon-menu.c6107d03.svg",
+    "static/media/icon-minus.f5073aa8.svg": "./static/media/icon-minus.f5073aa8.svg",
+    "static/media/icon-plus.b297868c.svg": "./static/media/icon-plus.b297868c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc05cd4f.js",
+    "static/js/2.0d43d941.chunk.js",
+    "static/css/main.660aa71a.chunk.css",
+    "static/js/main.cb4ad1e1.chunk.js"
+  ]
+}
