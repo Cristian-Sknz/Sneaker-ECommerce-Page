@@ -20,7 +20,7 @@ const NavbarUI: React.FC<any> = () => {
       <NavbarBody>
         <NavbarContainer>
           <MobileButton />
-          <Logo src={'/logo.svg'} href={'/'} />
+          <Logo src={'./logo.svg'} href={'/'} />
           <NavbarList>
             <NavbarItem href={'#'}>Collections</NavbarItem>
             <NavbarItem href={'#'}>Men</NavbarItem>
